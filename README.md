@@ -39,7 +39,7 @@ This dataset reflects the daily volume of violations that have occurred in Child
 - This graph is simple line chart showing the trend of speed violation and can be helpful for someone who just wants an overview of the speed vilations. The columns used to create this chart are 'Year of Violation Date' and 'Violations'.
 - This graph shows a positive sign that the number of violations are decreasing in Chicago
 
-![image.png](attachment:image.png)
+![ScreenShot](IP_Viz1.PNG)
 
 #### Visualization 2
 - This is a map of chicago representing the areas and the number of speed camera violations occured for that area
@@ -48,7 +48,7 @@ This dataset reflects the daily volume of violations that have occurred in Child
 - This map representation is helpful to identify the areas of speed camera violations
 - The Year filter is provided to check the spped violation number of an area per year
 
-![image.png](attachment:image.png)
+![ScreenShot](IP_Viz2.PNG)
 
 #### Visualization 3
 - This visualization is a bubble chart which shows top 20 Speed violations by Address & Camera Ids 
@@ -58,7 +58,7 @@ This dataset reflects the daily volume of violations that have occurred in Child
 - The address or camera ids with highest number of violations are in red and lowest number of violations are in dark green
 - The filter of Year is also provided  for more granularity which can be used to see violations for each year by Address or Camera ids
 
-![image.png](attachment:image.png)
+![ScreenShot](IP_viz3.PNG)
 
 #### Visualization 4
 
@@ -69,7 +69,7 @@ This dataset reflects the daily volume of violations that have occurred in Child
 - The columns used to create this graph are 'Violation Date' and 'Violations'
 - The red color shows the high number of violations and green shows low number of violations
 
-![image.png](attachment:image.png)
+![ScreenShot](IP_Viz4.PNG)
 
 #### Visualization 5
 
@@ -89,7 +89,7 @@ This dataset reflects the daily volume of violations that have occurred in Child
 - This information can be helpful to predict days in future when speed violations will be high and necessary steps can be taken this information is combined with the accident in chicago dataset to find whether the accidents occuring in Chicago are due to the speed violations or not.
      
 
-![image.png](attachment:image.png)
+![ScreenShot](IP_Viz5.PNG)
 
 ### Conclusion
 
