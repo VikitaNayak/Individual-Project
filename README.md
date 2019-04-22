@@ -4,9 +4,9 @@
 ### Individual Project Objective :
 
 -  #### Transform an unknown dataset into visualizations. 
-            This activity will allow you to learn from how to explore data and iteratively develop effective visualizations.
+           This activity will allow you to learn from how to explore data and iteratively develop effective visualizations.
 -  #### Get comfortable using Tableau. 
-            Tableau is an important tool for data visualization. Completing the individual project will provide you with the skills to comfortably use Tableau.
+           Tableau is an important tool for data visualization. Completing the individual project will provide you with the skills to comfortably use Tableau.
 
 
 ### Dataset used for this project:  City of Chicago’s Automated Speed Enforcement Program. 
