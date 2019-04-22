@@ -107,4 +107,4 @@ This dataset reflects the daily volume of violations that have occurred in Child
 
 #### Visualization Created using Tableau:
 
-Public link: https://public.tableau.com/profile/vikita.nayak#!/vizhome/DashboardIndividualProject/SpeedViolationbyDaysmonth
+Public link:https://public.tableau.com/profile/vikita.nayak#!/vizhome/DashboardIndividualProject/SpeedViolationbyDaysmonth?publish=yes
